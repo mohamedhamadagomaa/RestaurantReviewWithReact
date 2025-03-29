@@ -1,4 +1,23 @@
 import img1 from "/src/assets/1.png";
+import img1 from "/src/assets/1.png";
+import img3 from "/src/assets/3.png";
+import img4 from "/src/assets/4.png";
+import img5 from "/src/assets/5.png";
+import img6 from "/src/assets/6.png";
+import img7 from "/src/assets/7.png";
+import img8 from "/src/assets/8.png";
+import img9 from "/src/assets/9.png";
+import img10 from "/src/assets/10.png";
+import img11 from "/src/assets/11.png";
+import img13 from "/src/assets/13.png";
+import img14 from "/src/assets/14.png";
+import img15 from "/src/assets/15.png";
+import img16 from "/src/assets/16.png";
+import img17 from "/src/assets/17.png";
+import img18 from "/src/assets/18.png";
+import img19 from "/src/assets/19.png";
+import img20 from "/src/assets/20.png";
+
 export const restaurants = [
   {
     id: 1,
@@ -61,7 +80,7 @@ export const restaurants = [
     display: "block",
     name: "\u0645\u0627\u0643\u0633\u064a\u0645",
     place: "Zagazig",
-    photograph: "/src/assets/2.png",
+    photograph: img2,
     featured: true,
     address:
       "\u0641\u0644\u0644 \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u060c \u0642\u0633\u0645 \u062b\u0627\u0646\u064a \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642 ",
@@ -110,7 +129,7 @@ export const restaurants = [
     display: "block",
     name: "7days pizza",
     place: "Zagazig",
-    photograph: "/src/assets/3.png",
+    photograph: img3,
     address:
       "\u0634\u0627\u0631\u0639 \u0627\u0644\u0645\u0634\u064a\u0631 \u0623\u062d\u0645\u062f \u0625\u0633\u0645\u0627\u0639\u064a\u0644\u060c\u0627\u0644\u0635\u064a\u0627\u062f\u064a\u0646",
     position: {
@@ -158,7 +177,7 @@ export const restaurants = [
     display: "block",
     name: "\u0645\u0634\u0648\u064a\u0627\u062a \u0627\u0648\u0631\u064a\u0646\u062a\u0627\u0644",
     place: "Zagazig",
-    photograph: "/src/assets/4.png",
+    photograph: img4,
     address:
       "\u0634 \u0627\u0645\u0627\u0645 \u0645\u0631\u0643\u0632 \u062c\u0627\u0648\u064a\u0634 \u0627\u0644\u0637\u0628\u0649,\u0627\u0644\u0635\u064a\u0627\u062f\u064a\u0646",
     position: {
@@ -206,7 +225,7 @@ export const restaurants = [
     display: "block",
     name: "\u0645\u0637\u0639\u0645 \u0647\u0648\u062a \u0628\u0631\u062c\u0631",
     place: "Zagazig",
-    photograph: "/src/assets/5.png",
+    photograph: img5,
     address:
       "\u0634\u0627\u0631\u0639 \u0639\u062b\u0645\u0627\u0646 \u0628\u0646 \u0639\u062b\u0645\u0627\u0646.\u0641\u064a\u0644\u0627\u062a \u062c\u0627\u0645\u0639\u0629\u060c\u0634\u064a\u0628\u0629\u0627\u0644\u0646\u0643\u0627\u0631\u064a\u0629",
     position: {
@@ -254,7 +273,7 @@ export const restaurants = [
     display: "block",
     name: "SOY Restaurant",
     place: "Zagazig",
-    photograph: "/src/assets/6.png",
+    photograph: img6,
     address:
       "\u0634\u0627\u0631\u0639 \u0623\u062d\u0645\u062f \u0645\u0627\u0647\u0631\u060c\u0643\u0641\u0631 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632\u060c\u0627\u0644\u062c\u0627\u0645\u0639",
     position: {
@@ -302,7 +321,7 @@ export const restaurants = [
     display: "block",
     name: "\u0627\u0644\u0628\u0627\u0631\u0648\u0646",
     place: "Zagazig",
-    photograph: "/src/assets/7.png",
+    photograph: img7,
     address:
       "\u0634\u0627\u0631\u0639 \u0627\u0644\u062c\u0644\u0627\u0621\u060c \u064a\u0648\u0633\u0641\u060c \u0642\u0633\u0645 \u062b\u0627\u0646 \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642",
     position: {
@@ -350,7 +369,7 @@ export const restaurants = [
     display: "block",
     name: "Kermalak Restaurant & cafe",
     place: "Zagazig",
-    photograph: "/src/assets/8.png",
+    photograph: img8,
     address:
       "30 \u0634\u0627\u0631\u0639 \u0633\u0639\u062f \u0632\u063a\u0644\u0648\u0644\u060c\u0645\u0646\u0634\u064a\u0629\u0623\u0628\u0627\u0638\u0629\u060c\u0627\u0648\u0644 \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642",
     position: {
@@ -398,7 +417,7 @@ export const restaurants = [
     display: "block",
     name: "\u0627\u0644\u0645\u0631\u0627\u0643\u0628\u064a \u0644\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0647",
     place: "Zagazig",
-    photograph: "/src/assets/9.png",
+    photograph: img9,
     address:
       "\u0639\u0631\u0627\u0628\u064a\u060c \u0642\u0633\u0645 \u062b\u0627\u0646 \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642\u060c\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     position: {
@@ -446,7 +465,7 @@ export const restaurants = [
     display: "block",
     name: "\u0643\u0646\u062a\u0627\u0643\u0649",
     place: "Zagazig",
-    photograph: "/src/assets/10.png",
+    photograph: img10,
     address:
       "1\u0637\u0644\u0639\u062a \u062d\u0631\u0628\u060c\u0627\u0644\u062c\u0627\u0645\u0639\u060c \u0642\u0633\u0645 \u062b\u0627\u0646 \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642",
     position: {
@@ -494,7 +513,7 @@ export const restaurants = [
     display: "block",
     name: "\u0633\u0648\u0634\u064a\u0631\u0627\u0645\u064a\u0633",
     place: "Cairo",
-    photograph: "/src/assets/11.png",
+    photograph: img11,
     address:
       "8 Al Haras, \u0642\u0635\u0631 \u0627\u0644\u062f\u0648\u0628\u0627\u0631\u0629\u060c \u0642\u0633\u0645 \u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c",
     position: {
@@ -548,7 +567,7 @@ export const restaurants = [
     display: "block",
     name: "\u0635\u0628\u0627\u064a\u0627 \u0627\u0646\u062f\u0631 \u0633\u062a\u0627\u0631\u0632",
     place: "Cairo",
-    photograph: "/src/assets/12.png",
+    photograph: img11,
     address:
       "Corniche El Nil\u060c \u0642\u0635\u0631 \u0627\u0644\u062f\u0648\u0628\u0627\u0631\u0629\u060c \u0642\u0633\u0645 \u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c 11511",
     position: {
@@ -596,7 +615,7 @@ export const restaurants = [
     display: "block",
     name: "\u0627\u0644\u0645\u0637\u0639\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u0644\u0649",
     place: "Cairo",
-    photograph: "/src/assets/13.png",
+    photograph: img13,
     address:
       "Kempinski Nile Hotel, Corniche El Nil, 12 Ahmed Raghab Street, 11519, Garden City",
     position: {
@@ -644,7 +663,7 @@ export const restaurants = [
     display: "block",
     name: "Vivo Ristorante",
     place: "Cairo",
-    photograph: "/src/assets/14.png",
+    photograph: img14,
     address:
       "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629\u060c \u0642\u0633\u0645 \u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c",
     position: {
@@ -692,7 +711,7 @@ export const restaurants = [
     display: "block",
     name: "\u0627\u0644\u0645\u0637\u0639\u0645 \u0627\u0644\u062f\u0648\u0627\u0631",
     place: "Cairo",
-    photograph: "/src/assets/15.png",
+    photograph: img15,
     address:
       "Grand Nile Tower Corniche El Nile Street, \u062d\u064a \u0645\u0635\u0631 \u0627\u0644\u0642\u062f\u064a\u0645\u0629\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c",
     position: {
@@ -740,7 +759,7 @@ export const restaurants = [
     display: "block",
     name: "O's Pasta",
     place: "Cairo",
-    photograph: "/src/assets/16.png",
+    photograph: img16,
     address:
       "1159 26 July St, \u0645\u062d\u0645\u062f \u0645\u0638\u0647\u0631\u060c \u0627\u0644\u0632\u0645\u0627\u0644\u0643\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c 11211",
     position: {
@@ -788,7 +807,7 @@ export const restaurants = [
     display: "block",
     name: "Zitouni",
     place: "Cairo",
-    photograph: "/src/assets/17.png",
+    photograph: img17,
     address:
       "11089 Corniche El Nil, \u0642\u0633\u0645 \u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c 11519",
     position: {
@@ -836,7 +855,7 @@ export const restaurants = [
     display: "block",
     name: "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0646\u0648\u0628\u064a\u0629 - Nubian Village",
     place: "Cairo",
-    photograph: "/src/assets/18.png",
+    photograph: img18,
     address:
       "Corniche El Nil\u060c \u062d\u064a \u0645\u0635\u0631 \u0627\u0644\u0642\u062f\u064a\u0645\u0629\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     position: {
@@ -884,7 +903,7 @@ export const restaurants = [
     display: "block",
     name: "\u0645\u0637\u0639\u0645 \u0627\u0633\u0645\u0627\u0643 \u0642\u062f\u0648\u0631\u0629",
     place: "Cairo",
-    photograph: "/src/assets/19.png",
+    photograph: img19,
     featured: true,
 
     address:
@@ -934,7 +953,7 @@ export const restaurants = [
     display: "block",
     name: "\u0628\u0648\u0648\u0644 \u062c\u0631\u064a\u0644",
     place: "Cairo",
-    photograph: "/src/assets/20.png",
+    photograph: img20,
     address:
       "Four Seasons Nile Plaza, Garden City, Cairo, \u0642\u0633\u0645 \u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644\u060c \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629\u202c",
     position: {
@@ -1004,7 +1023,7 @@ export const featuredRestaurants = [
     display: "block",
     name: "\u0628\u0627\u0631\u0627\u062f\u064a\u0632",
     place: "Zagazig",
-    photograph: "/src/assets/1.png",
+    photograph: img1,
     featured: true,
     address:
       "\u0623\u0639\u0644\u0649 \u0643\u0646\u062a\u0627\u0643\u064a \u0634\u0627\u0631\u0639 \u0633\u0639\u062f \u0632\u063a\u0644\u0648\u0644 ",
@@ -1060,7 +1079,7 @@ export const featuredRestaurants = [
     display: "block",
     name: "\u0645\u0627\u0643\u0633\u064a\u0645",
     place: "Zagazig",
-    photograph: "/src/assets/2.png",
+    photograph: img2,
     featured: true,
     address:
       "\u0641\u0644\u0644 \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u060c \u0642\u0633\u0645 \u062b\u0627\u0646\u064a \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642 ",
@@ -1109,7 +1128,7 @@ export const featuredRestaurants = [
     display: "block",
     name: "\u0645\u0637\u0639\u0645 \u0627\u0633\u0645\u0627\u0643 \u0642\u062f\u0648\u0631\u0629",
     place: "Cairo",
-    photograph: "/src/assets/19.png",
+    photograph: img19,
     featured: true,
     address:
       "\u0634, 66 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0627\u0644\u062f\u0642\u064a\u060c \u0627\u0644\u062f\u0642\u0649\u060c \u0627\u0644\u062c\u064a\u0632\u0629 12411",
