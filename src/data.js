@@ -1,10 +1,11 @@
+import img1 from "/src/assets/1.png";
 export const restaurants = [
   {
     id: 1,
     display: "block",
     name: "\u0628\u0627\u0631\u0627\u062f\u064a\u0632",
     place: "Zagazig",
-    photograph: "/src/assets/1.png",
+    photograph: img1,
     featured: true,
     address:
       "\u0623\u0639\u0644\u0649 \u0643\u0646\u062a\u0627\u0643\u064a \u0634\u0627\u0631\u0639 \u0633\u0639\u062f \u0632\u063a\u0644\u0648\u0644 ",
